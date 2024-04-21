@@ -15,7 +15,7 @@ function! HighlightFor(group, ...)
 endfunction
 
 " general 
-call HighlightFor("Normal",      "#FF0055", "#120b10", "NONE") " old bg: #1a1018
+call HighlightFor("Normal",      "#FF0055", "#000000", "NONE") " old bg: #1a1018
 call HighlightFor("Visual",      "NONE",    "#563466", "NONE")
 call HighlightFor("ColorColumn", "NONE",    "#182333", "NONE")
 call HighlightFor("LineNr",      "#FF0055", "NONE",    "NONE")
