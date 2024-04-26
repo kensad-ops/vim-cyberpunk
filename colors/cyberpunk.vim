@@ -41,7 +41,7 @@ call HighlightFor("Directory", "#00FFC8", "NONE", "NONE")
 call HighlightFor("Title",     "#c592ff", "NONE", "NONE")
 
 " Cursor {{{
-call HighlightFor("Cursor",       "#00FFC8", "NONE",    "NONE")
+call HighlightFor("Cursor",       "#fffc58", "NONE",    "NONE")
 call HighlightFor("CursorLineNr", "#140007", "#00FFC8", "NONE")
 
 " Cursorline type
