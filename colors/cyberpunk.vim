@@ -42,7 +42,7 @@ call HighlightFor("Title",     "#c592ff", "NONE", "NONE")
 
 " Cursor {{{
 call HighlightFor("Cursor",       "#00FFC8", "NONE",    "NONE")
-call HighlightFor("CursorLineNr", "#140007", "#fffc58", "NONE")
+call HighlightFor("CursorLineNr", "#140007", "#00FFC8", "NONE")
 
 " Cursorline type
 if exists("g:cyberpunk_cursorline") && g:cyberpunk_cursorline == "black"
